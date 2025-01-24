@@ -1,0 +1,2 @@
+# NIMBUS_SQL_PYTHON_TEST
+PYTHON and SQL test-Nimbus
